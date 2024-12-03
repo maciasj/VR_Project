@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cuadro
+  - TeleportTarget
+  - RotateTarget
+  - Slider
+  - Canvas
+  - red_paint
+  - green_paint
+  - purple_paint
+  - orange_paint
+  - blue_paint
+  - white_paint
+  - yellow_paint
+  - Gato
+  - PuertaCuadros
+  - PuertaEstatuas
+  - PuertaPintar
+  - CilindroGato
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - XR Simulation
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

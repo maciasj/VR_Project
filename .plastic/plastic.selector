@@ -1,0 +1,4 @@
+repository "SGI_Project@Marcelituu@cloud"
+  path "/"
+    br "/main"
+    co "/main"
